@@ -1,0 +1,18 @@
+{
+
+    "Good Enemies":{
+        "Dwarf Names":["Thiron","Bofir","Bilan","Dirun","Folo","Kolo","Dwalen"],
+        "Elf Names":["Lego Lost","Towelriel","Elrund","Goladriel"],
+        "Good Wizard Names":["Gondalf","Radigost"],
+        "Hibbot Names":["Bolbi","Frodi","Som"],
+        "Human Names":["Berd","Faramor","Aragarn","Boromor"]
+    },
+    
+    "Evil Enemies":{
+        "Evil Wizard Names":["Soruman"],
+        "Goblin Names":["Azig","Gorkol","Gelb"],
+        "Orc Names":["Shagrit","Gorbog","Sharko","Grishnikh"],
+        "Sorcerer Names":["Saurin","Milkor"],
+        "Uruk Names":["Lortz"]
+    }
+}
